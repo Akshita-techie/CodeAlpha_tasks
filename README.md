@@ -85,6 +85,3 @@ The repository demonstrates my practical learning and implementation of Python p
 Author
 Akshita
 Python Programming Internship — CodeAlpha
-    ├── email_extractor.py
-    ├── emails.txt
-    └── extracted_emails.txt
