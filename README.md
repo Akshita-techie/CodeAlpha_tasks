@@ -72,6 +72,10 @@ codealpha_tasks/
 │   └── portfolio_result.txt
 │
 └── Task3_TaskAutomation/
+    ├── email_extractor.py
+    ├── emails.txt
+    └── extracted_emails.txt
+
 Learning Outcomes
 These projects provided practical experience in developing Python programs from scratch and understanding how basic programming concepts can be applied to real-world problems.
 The tasks also helped improve problem-solving, debugging, logical thinking, file handling, automation, and code organization skills.
