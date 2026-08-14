@@ -1,0 +1,3 @@
+Hello, my email is student@example.com.
+You can contact us at support@company.com.
+For internship queries, write to intern@codealpha.com.
