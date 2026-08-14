@@ -1,0 +1,3 @@
+student@example.com
+support@company.com
+intern@codealpha.com
